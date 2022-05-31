@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+}
+
+#display {
+    width: 50%;
+    margin: 0 auto;
+    height: 200px;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 2px 2px 2px black;
+}
+
+.red {
+    color: red;
+}
+.t1 {
+    width: 100px;
+    background-color: blue;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.t2 {
+    color: red;
+}
